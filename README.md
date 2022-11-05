@@ -1,1 +1,1 @@
-Svelte boilerplate
+Svelte Tailwind and Daisyui

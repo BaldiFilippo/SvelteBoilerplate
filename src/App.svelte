@@ -1,8 +1,9 @@
 <script>
+  import Nav from './lib/Nav.svelte'
 </script>
 
 <main>
-  <h1 class="text-blue-700 italic text-2xl  ">Hello world!</h1>
+  <Nav />
 </main>
 
 <style>
